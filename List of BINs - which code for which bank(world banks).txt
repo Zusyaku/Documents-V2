@@ -1,0 +1,85 @@
+BANK IDENTIFICATION NUMBERS:
+^^^^ ^^^^^^^^^^^^^^ ^^^^^^^
+~~VISA BINs~~
+^^^^ ^^^^
+*4000-4999*
+
+401903 = Bank of America
+402400 = Bank of America
+402402 = Bank of America (Gold)
+403200 = Household Bank
+4040?? = Connecticut National Bk
+4040?? = Wells Fargo
+4050xx = 1st Interstate
+4052?? = First Cincinnati Bank
+405209 = First Nationwide Bank
+4060?? = Navy Federal Credit Union
+407000 = Security Pacific Ntl. Bank
+407129 = Colonial National Bank
+
+411427 = Chemical Bank
+412174 = Signet Bank/Virginia
+412185 = Citibank/Signet?
+41235? = Commerce Bank
+4128xx = Citibank
+416818 = Great Western Bank
+4131?? = State Street Bank
+4170?? = Beneficial National
+417129 = Colonial Bank
+4188?? = Ohio Savings & Loan
+
+4211?? = Chemical Bank
+4215?? = Marine Midland
+422591 = Chase Manhattan
+4226xx = Chase Manhattan
+4231?? = Chase Lincoln 1st Classic
+4232?? = Chase Lincoln 1st Classic
+4237?? = Cicero Credit
+4241?? = Natl. Westminester Bank
+425043 = First Chicago Bank
+425330 = Bank of N.Y./Consumer Edge
+425451 = Chemical Bank
+4262xx = Corestates Bank of DE
+427138 = Citibank
+
+4302?? = HouseHold Bank
+431068 = Bank-Layfayette/Imprl Svg's
+4312?? = Barnette Credit
+431301 = Valley Federal S&L
+431663 = Glendale Savings & Loan
+431772 = Gold Dome
+4321?? = Mellon Bank
+433213 = Bank of Indiana
+433222 = Far West Virginia
+4349?? = First Bank of America
+436800 = Sovran Bank/VA
+438733 = Bank One
+438760 = More Bank
+
+440121 = Gary Wheaton
+440862 = Charleston of Indiana
+441712 = Mellon Bank
+442813 = Bank of Hoven
+442843 = " " " "
+44288? = Colonial National Bank
+443600 = Security Bank of Monroe
+4448?? = First National Bank - RI
+
+46165x = First Interstate Bank
+4626?? = Indiana National Bank
+4646?? = Mercantile
+4672?? = Mercantile Bank
+467362 = First National Bank;
+467807 = Home Fed Svg's/1st Card
+467808 = Home Fed Svg's/1st Card
+468120 = Harris Trust Savings
+4696?? = Credit of Kansas
+
+4718?? = Colorado Bank
+4734?? = Madison Bank
+
+480012 = Valley Federal S&L
+4811?? = Bank of Hawaii
+4825?? = First Wisconsin
+4897?? = Village Bank of Cinn., OH
+4929?? = Barclay Bank/DE
