@@ -1,0 +1,419 @@
+100+ links to websites that sell CC's, Paypal, Bank logins and more
+
+
+--- Hints 
+
+Many autoshops are or become scams.
+
+
+Many scam by selling the same material to many customers, or by using
+it just after the check done prior to the selling.
+
+Any shop named after a serious one, or resembling it, may be a scam.
+For example if something.su is OK then something.com may not be so.
+
+Be aware that many sites do scam selectively.
+
+Beware, many crooks create an autoshop to scam then promote it on forums.
+
+To obtain a sublist of a given type, for example all "OK" sites, just use "grep" on Unix or "search" on Windows. Example (Unix): grep OK CCSHOPROJ--shops_CC_bank.txt |grep -v maybe
+
+Some markets need a deposit or an invitation.  For some invitations are sold on Evolution.
+
+
+2015: Vault Market CCs' quality is gliding down.
+
+
+On some markets one cannot buy using a Tor exit node, you have to access to
+the shop through a proxy (note that you can register and send BTC to
+your account).  This is for the card seller to check that you have one,
+because carding throough Tor is a good way to burn the CC.
+
+Good merchants: Yasuo and Redson, verify their PGP keys.
+
+-- Lists of websites
+crimeonline.cc OK, new 201502
+mycrime.club - OK, mainly Bank logs & cvv
+1337carders.cc - dead
+2pac.cc - maybe OK, mainly dumps
+2pac.su - maybe OK, new 201412
+726klmrnjnkdyqrd.onion - maybe OK
+ak47.me - scam (selectively)
+alboraaq.com - maybe OK, new 201412
+allabinn.com - maybe OK, new 201412
+approved.su - maybe OK, new 201501
+approved1.net - maybe OK, new 201412
+approved1.ru - scam
+approved1.su - OK but limited
+approvedcc.su - maybe OK, new 201412
+autocvv.net - scam
+backstab.su - scam
+backup.clubr.ru - maybe OK, new 201412
+bases-valid.cc - maybe OK, new 201412
+bestbins.ru - scam
+bestbins.su - maybe OK, new 201412
+bestcvvshop.com - maybe OK, new 201412
+bestdumps.su - maybe OK, new 201412
+bigbase1.com - maybe OK, new 201412
+bigbase1.lv - scam (Uniccshop)
+bigbase1.su - maybe OK, new 201412
+bigcarder.com - maybe OK, new 201412
+bigseller.cc - maybe OK, new 201412
+blackservice.su - maybe OK, new 201412
+blackstuff.net - maybe OK, new 201412
+brandcc.name - maybe OK, new 201412
+bstab.net - maybe OK
+buyacc.us - scam
+buycvv.info - maybe OK, new 201412
+buyst0re.bz - maybe OK
+c2v2.net - maybe OK
+c4c.su - maybe OK, new 201412
+card-srv.com - maybe OK, new 201412
+carder.su - maybe OK, new 201412
+carderland.com - maybe OK, new 201412
+carderpro.com - maybe OK
+carderpro.su - maybe OK, new 201412
+carderprofit.cc - dead
+cardersbay.com - maybe OK, new 201412
+cardersbay.in - maybe OK
+cardersbay.ru - maybe OK, new 201412
+carderscave.com - maybe OK, new 201412
+carderscave.ru - maybe OK, new 201412
+cardersforum.se - maybe OK, new 201412
+cardershop.ru - OK
+cardershop.su - maybe OK, new 201412
+cardersmarket.su - maybe OK, new 201412
+cardersunion.net - maybe OK, new 201412
+carding-world.su - maybe OK, new 201412
+carding.be - maybe OK, new 201412
+carding.su - maybe OK, new 201412
+carding.sx - maybe OK, new 201412
+carding2bil6j7ja.onion - scam, new 201503
+cardingboss.net - maybe OK, new 201412
+cardingforum.in - maybe OK, new 201412
+cardingmafia.com - maybe OK, new 201412
+cardingmafia.su - maybe OK, new 201412
+cardingmafia.ws - maybe OK, new 201412
+cardingthe.com - maybe OK, new 201412
+cardingthe.us - maybe OK, new 201412
+cardingworld.cc - maybe OK, new 201412
+cardoza.team.pro - maybe OK
+cardroad.net - maybe OK, new 201412
+cardrock.cc - maybe OK, new 201501
+cardrock.org - maybe OK, new 201412
+cardrock.su - scam
+cardrockcafe.cc - maybe OK
+cardsmarket.su - maybe OK
+cardstorm.ru - maybe OK
+cashoutcc.cc - maybe OK, new 201412
+cc-dumps.com - maybe OK, new 201412
+cc4you.cc - maybe OK, new 201501
+ccbase.biz - maybe OK
+ccbases.biz - maybe OK, new 201412
+ccbases.com - maybe OK
+ccbases.net - maybe OK
+ccbases.su - maybe OK
+ccccrckysxxm6avu.onion - scam
+ccchecker.ru - maybe OK
+ccdumb.cc - dead
+ccdumb.com - maybe OK, new 201412
+cclub.bz - maybe OK, new 201412
+cclub.su - maybe OK, new 201412
+ccnall.com - scam
+ccnall.net - maybe OK, new 201412
+ccpos.ru - maybe OK, new 201412
+ccshoponline.com - maybe OK, new 201412
+ccstore.cc - OK
+ccstore.su - maybe OK
+cctsore.me - maybe OK, new 201501
+ccv.name - maybe OK
+ccv.su - maybe OK, new 201412
+ccvalid.biz - maybe OK, new 201412
+ccvalid.su - scam
+ccxdnvotswsk2c3f.onion - scam
+cheapcvv.me - maybe OK, new 201412
+cheapcvv.net - maybe OK, new 201412
+cheapdumps.so - scam
+cheapvcc.biz - maybe OK, new 201501
+consuella.su - scam
+crdcc.cc - maybe OK, new 201412
+crdclub.cc - maybe OK, new 201412
+crdclub.com - maybe OK, new 201412
+crdclub.su - maybe OK
+crdclub.ws - OK, new 201412
+crdpro.net - maybe OK, new 201412
+crdpro.su - maybe OK, new 201412
+crdsu.name - scam
+credit-o-mat.su - maybe OK, new 201412
+cvv-seller.su - maybe OK, new 201412
+cvv-shop.org - maybe OK, new 201412
+cvv-shop.pro - maybe OK, new 201412
+cvv-shop.ru - maybe OK
+cvv-store.ru - maybe OK, new 201412
+cvv-store.su - maybe OK
+cvv.cheap - maybe OK, new 201412
+cvv.club - maybe OK, new 201412
+cvv.me - maybe OK
+cvv2.cc - OK Vault Market
+cvv2.me - OK Vault Market
+cvv2.pro - OK Vault Market
+cvv2.su - maybe OK, new 201501
+cvv2store.com - maybe OK, new 201412
+cvv4you.cc - maybe OK, new 201501
+cvv4you.su - scam
+cvvbank.ru - maybe OK, new 201412
+cvvbase.me - maybe OK, new 201412
+cvvdump.com - maybe OK, new 201412
+cvvdumpsshop.com - maybe OK, new 201412
+cvvonline.me - maybe OK, new 201412
+cvvonline.net - maybe OK, new 201412
+cvvonline.pro - maybe OK, new 201412
+cvvonline.ru - maybe OK, new 201412
+cvvonline.su - maybe OK, new 201412
+cvvseller.pro - maybe OK
+cvvsh0p.co.ve - maybe OK, new 201412
+cvvshop.cards - maybe OK, new 201412
+cvvshop.cc - maybe OK, new 201412
+cvvshop.cheap - maybe OK, new 201412
+cvvshop.in - maybe OK, new 201412
+cvvshop.info - maybe OK, new 201412
+cvvshop.li - maybe OK, new 201412
+cvvshop.lv - maybe OK
+cvvshop.net - maybe OK
+cvvshop.ru - maybe OK, new 201501
+cvvshop.su - maybe OK
+cvvshop1.com - maybe OK
+cvvshop1.lv - scam (Uniccshop)
+cvvshop1.ru - maybe OK
+cvvshopadmin.com - maybe OK, new 201412
+cvvstore.ru - scam (Uniccshop)
+cvvus.su - maybe OK, new 201412
+cw-cc.su - maybe OK, new 201412
+d4rksys.cc - maybe OK
+d4rksys.com - maybe OK, new 201412
+darkmarket.ws - maybe OK, new 201412
+darkspot.info - maybe OK, new 201412
+dextersbank.* - scam
+dnums.com - maybe OK, new 201412
+dnums.su - scam
+dumps-shop.com - maybe OK, new 201412
+dumps-shop.eu - maybe OK, new 201411
+dumps.su - OK Vault Market
+dumps44.cc - maybe OK
+dumps44.com - scam
+dumps4rise.com - scam
+dumpscheck.us - maybe OK
+dumpscvvshop.com - maybe OK, new 201412
+dumpscvvshop.su - maybe OK, new 201412
+dumpsgate.com - maybe OK, new 201412
+dumpsgate.su - maybe OK
+dumpsmall.com - maybe OK, new 201412
+dumpsshop.net - maybe OK, new 201412
+dumpster.su - maybe OK, new 201412
+ebleuspace.su - maybe OK
+ecspacevcpse37tl.onion - maybe OK
+edumps.cc - maybe OK, new 201412
+elitecarders.com - maybe OK, new 201412
+fe-cc.su - maybe OK, new 201503
+fershop-corp.su - maybe OK, new 201501
+fershop-forever.ru - maybe OK, new 201501
+fershop-forever.su - maybe OK, new 201501
+feshop-card.com - maybe OK, new 201412
+feshop-card.ru - maybe OK, new 201501
+feshop-card.su - maybe OK, new 201412
+feshop-store.ru - maybe OK, new 201412
+feshop-store.su - maybe OK, new 201501
+feshop.org - maybe OK, new 201412
+feshop.su - scam
+feteam-ccshop.pm - maybe OK, new 201501
+foreverpp.su - maybe OK, new 201412
+forumcarder.net - maybe OK, new 201412
+freshbase.lv - maybe OK, new 201412
+freshbase.me - maybe OK, new 201412
+freshbase.org - maybe OK
+freshbase.su - maybe OK, new 201411
+freshcard.biz - maybe OK, new 201412
+freshcvvshop.su - maybe OK, new 201412
+freshstuffs.info - dead
+fullz.pro - maybe OK
+galaxycvv.com - scam
+galaxycvv.ru - maybe OK
+galaxycvv.su - maybe OK
+getcvvs.com - maybe OK, new 201412
+getsome.gg - maybe OK, new 201501
+good-cvv.ru - maybe OK, new 201412
+goodcvv.su - maybe OK, new 201412
+great-dumpz.su - maybe OK, new 201412
+greatdump.su - maybe OK, new 201412
+greatdumps.cc - maybe OK
+greatdumps.info - maybe OK, new 201412
+greatdumps.net - maybe OK, new 201412
+greatdumps.ru - maybe OK, new 201412
+greatdumps.su - maybe OK
+greatdumps.to - maybe OK, new 201412
+greatdumpz.cc - maybe OK, new 201412
+greatdumpz.su - maybe OK
+hackedcvv.su - maybe OK
+hackshopcc-cvv.blogspot.co.uk - OK
+infraud.su - maybe OK, new 201412
+instantcvv.com - maybe OK, new 201412
+instantcvv.ru - maybe OK
+instantcvv.su - maybe OK, new 201412
+jbestcc.com - maybe OK, new 201412
+jbestcc.ru - maybe OK
+jshop-pro.cc - maybe OK, us cc only
+jshop.cc - maybe OK, new 201501
+jshop.su - scam
+just4valid.su - maybe OK, new 201412
+justvalid.ru - scam
+jworldtopcc.com - maybe OK, new 201412
+jworldtopcc.ru - scam
+kaddafi.hk - scam
+kidala.info - maybe OK, new 201411
+kingscard.ru - maybe OK
+kingscard.su - maybe OK
+l33t.su - maybe OK, new 201411
+lampeduza.so - maybe OK, new 201412
+lampeduza.su - maybe OK
+legitvendors.su - maybe OK, new 201412
+liberty-market.su - probably a scam, new 201502
+logocc.ru - maybe OK, new 201412
+logoshopcc.biz - maybe OK, new 201412
+logoshopcc.net - maybe OK
+logoshopcc.ru - maybe OK, new 201412
+logoshopcc.su - maybe OK, new 201412
+lsdso.ws - maybe OK, new 201412
+ltdcc.cc - maybe OK
+ltdcc1.ru - maybe OK
+ltdcc1.su - maybe OK, new 201412
+mandarincc.pw - maybe OK, new 201503
+maza.su - scam
+miladccshop.su - maybe OK, new 201501
+mkdumps.com - maybe OK, new 201412
+n1shop.net - maybe OK, new 201412
+n1shop.su - maybe OK
+nce-mstl.ieshop - dead
+nonvbv.com - scam
+nonvbv.ru - OK
+nonvbv.su - maybe OK
+octavian.cc - maybe OK, new 201412
+octavian.su - OK, dumps
+oktavian.su - maybe OK, new 201412
+omerta.cc - scam
+pawn-shop.su - maybe OK, new 201501
+pentagon.al - maybe OK
+pirates-cc.com - maybe OK
+pirates-cc.ru - maybe OK
+piratescc.ru - maybe OK, new 201412
+piretes-cc.ru - maybe OK, new 201412
+pistoli.cc - maybe OK, new 201503
+plastic7n6367k3b.onion - scam, new 201502
+pompei.su - maybe OK
+pp24.cc - scam (selective)
+procarder.ru - maybe OK, new 201412
+proclub.ws - maybe OK, new 201412
+procvvshop.com - maybe OK, new 201412
+procvvshop.ru - maybe OK
+procvvshop.su - maybe OK, new 201412
+project84.su - maybe OK
+prov.cc - maybe OK, new 201412
+r0bb3rs-shop.ru - maybe OK, new 201501
+rafanji.com - maybe OK
+realcvvshop.com - maybe OK, new 201412
+rescator.cc - maybe OK, new 201501
+rescator.cm - OK
+rescator.co - maybe OK, new 201501
+rescator.ru - maybe OK
+rescator.so - probably OK
+rescator.su - maybe OK
+reskator.la - maybe OK
+royaldumps.ws - maybe OK, new 201412
+secinfo.su - maybe OK
+secretshop.su - maybe OK
+sellcvv.biz - maybe OK, new 201412
+selldump.su - maybe OK
+shop-cvv.com - maybe OK, new 201412
+shop-cvv.ru - maybe OK
+shopadmin.cc - maybe OK, new 201501
+shopadmin.su - maybe OK, new 201412
+shopcc.ru - maybe OK, new 201412
+shopcvv.cc - maybe OK, new 201412
+shopcvv.ru - maybe OK
+shopcvv.su - maybe OK, new 201412
+slilpp.net - maybe OK, selective scam
+smartstripes.com - maybe OK, new 201412
+source4dumps.cc - maybe OK, new 201412
+source4dumps.com - maybe OK, new 201412
+sruka.cc - maybe OK
+sruka.su - scam
+ssnfinder.su - scam
+st0re.biz - OK Vault Market
+st0re.name - OK Vault Market
+stuff.academy - scam (selective)
+swiped.cards - maybe OK, new 201411
+swiped.ru - scam
+t12shop.cc - maybe OK
+t12shop.com - maybe OK, new 201412
+t53ltv6lhwtgfozb.onion - OK 201503
+teentc.net - scam
+thecarding.com - maybe OK, new 201412
+thefreshcc.com - scam
+thefreshdumps.com - maybe OK torcarders.cc
+torcarders.cc - OK 201503
+torcvv.cc - OK
+torcvv.com - maybe OK
+track2.cc - maybe OK, new 201412
+track2cvv.com - maybe OK, new 201501
+track2shop.com - scam
+trackmarket.pro - maybe OK
+trackmarket.ws - maybe OK, new 201412
+try2swipe.ws - maybe OK, new 201412
+turbocc.asia - OK, new 201404
+ug-cvv.com - maybe OK, new 201412
+ug4all.ru - scam
+unicc.su - maybe OK, new 201501
+uniccshop.biz - maybe OK, new 201412
+uniccshop.ru - maybe OK
+uniccshop.su - scam (Uniccshop)
+uniccshops.ru - scam (Uniccshop)
+v-m.name - OK Vault Market
+v-market.info - OK Vault Market
+v-market.name - maybe OK, new 201501
+v-market.pro - OK Vault Market
+v-market.su - OK Vault Market
+valid-cards.com - maybe OK, new 201412
+valid-market.com - maybe OK, new 201412
+valid-shop.ru - maybe OK, new 201412
+valid-stuff.com - maybe OK, new 201412
+valid.cards - maybe OK, new 201412
+valid4you.ru - maybe OK, new 201412
+validbank.com - maybe OK, new 201412
+validbank.ru - maybe OK, new 201412
+validcard.org - maybe OK
+validcc.su - OK
+validcvv.ru - maybe OK
+validcvv.su - maybe OK
+validdumps.org - maybe OK, new 201412
+validdumps.su - maybe OK
+validhack.info - OK
+validservice.us - maybe OK, new 201412
+validshop.cc - maybe OK, new 201412
+validshop.su - maybe OK
+validtools.eu - maybe OK, new 201412
+verified.cm - maybe OK
+verified.ms - maybe OK, new 201412
+vipcvv.net - scam
+vipcvv.org - maybe OK, new 201412
+visi0nnaire.com - maybe OK, French
+vlt.bz - OK Vault Market
+vlt.vc - OK Vault Market
+vmadumps.su - maybe OK, new 201412
+worldcvv.com - scam
+worldcvv.ru - maybe OK
+www.ccdeets.com - OK
+www.isoldcc.com - dead
+www.vpro.su - maybe OK, new 201412
+xdumps.ws - maybe OK, new 201412
+zonecvv.net - maybe OK, new 201412
+zukkoshop.cc - maybe OK, new 201412
+zukkoshop.com - OK
